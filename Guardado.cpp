@@ -2,6 +2,7 @@
 #include <cstring>
 #include <fstream>
 
+//prueba clase 2026-2
 
 using namespace std;
 
