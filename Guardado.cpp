@@ -49,10 +49,7 @@ Estudiante::Estudiante(string path){
     
     ifstream temporal(path, ios::binary);
 
-    //if (!temporal) {
-    //   cout << "Error al abrir el archivo." << endl;
-    //    return 1;
-    //}
+    // borre el comentario que estaba aca
     
     est estudiante;
     
