@@ -12,6 +12,7 @@ struct est {
     float nota;
 };
 
+// otro comentario
 
 class Estudiante{
     
