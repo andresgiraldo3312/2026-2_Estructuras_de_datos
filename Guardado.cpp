@@ -50,6 +50,7 @@ Estudiante::Estudiante(string path){
     ifstream temporal(path, ios::binary);
 
     // borre el comentario que estaba aca
+    // otro comentario
     
     est estudiante;
     
